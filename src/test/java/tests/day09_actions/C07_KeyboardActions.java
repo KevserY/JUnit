@@ -1,6 +1,5 @@
-package tests.day09__________actions;
+package tests.day09_actions;
 
-import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;

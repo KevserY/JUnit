@@ -1,4 +1,4 @@
-package tests.day09__________actions;
+package tests.day09_actions;
 
 import org.junit.Assert;
 import org.junit.Test;
